@@ -1,6 +1,6 @@
 # Random-User-App
 
-### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Tour-Places/)
+### Check The Live Website ➡️ [Live Website](https://sekunev-random-user-app.netlify.app//)
 
 ### Description
 
