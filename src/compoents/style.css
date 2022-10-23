@@ -1,0 +1,39 @@
+.cards {
+  background-color: #ffec5c;
+  border: none;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 2rem;
+}
+
+.card img {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-bottom: 1rem;
+}
+
+.picture {
+  height: 8rem;
+  width: 8rem;
+  border-radius: 50%;
+}
+
+@media (max-width: 500px) {
+  .container {
+  }
+  .cards {
+    max-width: 24rem;
+
+    font-size: 1.2rem;
+    justify-content: ;
+  }
+}
+@media (max-width: 396px) {
+  .container {
+  }
+  .cards {
+    max-width: 20rem;
+
+    font-size: 1rem;
+    justify-content: ;
+  }
+}
