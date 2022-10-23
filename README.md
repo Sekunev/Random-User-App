@@ -1,4 +1,4 @@
-# Tour Places
+# Random-User-App
 
 ### Check The Live Website ➡️ [Live Website](https://sekunev.github.io/Tour-Places/)
 
@@ -8,7 +8,7 @@ Project aims to create a Random User App.
 
 ### Visualization of the Website
 
-![image](https://github.com/Sekunev/Tour-Places/blob/main/src/Animation.gif)
+![image](https://github.com/Sekunev/Random-User-App/blob/main/Animation.gif)
 
 ### Project Skeleton
 
