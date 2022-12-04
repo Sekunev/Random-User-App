@@ -38,4 +38,4 @@ SOLUTION
 
 ### Used in this project
 
-👉 I mastered ReactJS (axios, State, Props, Style, ), HTML, CSS, SCSS, Bootstrap and Javascript features in this project. You can see the visual representation of the website above.
+👉 I mastered ReactJS (axios, State, Props, Style, ), HTML, CSS, Bootstrap and Javascript features in this project. You can see the visual representation of the website above.
